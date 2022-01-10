@@ -1,9 +1,6 @@
-# 🚀 OneClick
+#  Vyvanze
 
 ![](https://forthebadge.com/images/badges/made-with-swift.svg)
-![](https://forthebadge.com/images/badges/built-with-swag.svg)
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](https://forthebadge.com/images/badges/open-source.svg)
 
 <div align="center">
   <img src="128x128logo.png">
@@ -12,12 +9,11 @@
 
 ![](desktop.png)
 
-This simple menubar app can give you quick access to some macOS functions.
-It only emulates terminal commands from a GUI
+Simple menubar app that gives quick access to macOS functions.
 
 * macOS 12.x (Monterey)
-* Intel app
-* Apple Silicon app
+* Intel 
+* Apple Silicon 
 
 ## 🖥 Functions v 1.4 stable
 
