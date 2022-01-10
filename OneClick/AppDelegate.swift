@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Ambar
-//
-//  Created by Anagh Sharma on 12/11/19.
-//  Copyright © 2019 Anagh Sharma. All rights reserved.
-//
-
 import Cocoa
 import SwiftUI
 
